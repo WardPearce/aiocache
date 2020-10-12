@@ -95,3 +95,7 @@ _release_notes
 tags
 .mypy_cache/
 .pytest_cache/
+
+
+# VS code workspace
+*.code-workspace
